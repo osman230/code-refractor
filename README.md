@@ -1,7 +1,7 @@
 # Code Refractor
 
 # Purpose
-A codebase that follows accessibliity standards
+A codebase that follows accessiblity standards
 
 # Built with
 
